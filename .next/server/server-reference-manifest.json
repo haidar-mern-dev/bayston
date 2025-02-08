@@ -1,0 +1,36 @@
+{
+  "node": {
+    "86a48e3e507974d0a010aa0aa1c52ad3b10acc29": {
+      "workers": {
+        "app/not-found": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fubuntu%2FHaidar%20Ali%2Ftxlabz%2Fbastyon-front-end%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%2C%5B%22%2Fhome%2Fubuntu%2FHaidar%20Ali%2Ftxlabz%2Fbastyon-front-end%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%22createOrReadKeylessAction%22%2C%22syncKeylessConfigAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/jobs/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fubuntu%2FHaidar%20Ali%2Ftxlabz%2Fbastyon-front-end%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%2C%5B%22%2Fhome%2Fubuntu%2FHaidar%20Ali%2Ftxlabz%2Fbastyon-front-end%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%22createOrReadKeylessAction%22%2C%22syncKeylessConfigAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/not-found": "action-browser",
+        "app/jobs/page": "action-browser"
+      }
+    },
+    "eb86b1e24ce4aed9cee3d47e69942f065784a5c3": {
+      "workers": {
+        "app/not-found": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fubuntu%2FHaidar%20Ali%2Ftxlabz%2Fbastyon-front-end%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%2C%5B%22%2Fhome%2Fubuntu%2FHaidar%20Ali%2Ftxlabz%2Fbastyon-front-end%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%22createOrReadKeylessAction%22%2C%22syncKeylessConfigAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/jobs/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fubuntu%2FHaidar%20Ali%2Ftxlabz%2Fbastyon-front-end%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%2C%5B%22%2Fhome%2Fubuntu%2FHaidar%20Ali%2Ftxlabz%2Fbastyon-front-end%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%22createOrReadKeylessAction%22%2C%22syncKeylessConfigAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/not-found": "action-browser",
+        "app/jobs/page": "action-browser"
+      }
+    },
+    "3ed7a63ab85a85c5c37c386349b3e3ddfd5699a2": {
+      "workers": {
+        "app/not-found": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fubuntu%2FHaidar%20Ali%2Ftxlabz%2Fbastyon-front-end%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%2C%5B%22%2Fhome%2Fubuntu%2FHaidar%20Ali%2Ftxlabz%2Fbastyon-front-end%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%22createOrReadKeylessAction%22%2C%22syncKeylessConfigAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/jobs/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fubuntu%2FHaidar%20Ali%2Ftxlabz%2Fbastyon-front-end%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%2C%5B%22%2Fhome%2Fubuntu%2FHaidar%20Ali%2Ftxlabz%2Fbastyon-front-end%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%22createOrReadKeylessAction%22%2C%22syncKeylessConfigAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/not-found": "action-browser",
+        "app/jobs/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "NJ9n7xAo7Mk46QPoMcUmJMej9fCeyfjyT0/TCTq37js="
+}
